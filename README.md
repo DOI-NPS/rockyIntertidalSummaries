@@ -13,7 +13,7 @@ Notes on this repo:
   park_QC_checks_compile.R</li>
   </ul>
 <li>Summary reports that are not fully functional since the latest version of the data package was updated include:</li>
-<ul>
+# <ul>Z:/
 <li>park_summary.Rmd: Does not currently work, but has a lot of code that may be useful for future reports.</li>
 <li>park_summary_abbrev.Rmd: Partially works, but has a lot of code that may be useful for future reports.</li>
 </ul>
