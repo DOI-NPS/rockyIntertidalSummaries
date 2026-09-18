@@ -1,0 +1,11 @@
+Package: rockyIntertidalSummaries
+Title: rockyIntertidalSummaries: A repo for automated summaries Northeast Temperate Network rocky intertidal data.
+Version: 1.0.1
+Authors@R: c(
+    person(given="Kate", family="Miller", email="kathryn_miller@nps.gov",
+           role = c("aut", "cre"))
+Description: R scripts and markdown reports that generate automated rocky interidal summaries and QC reports by park, site, and parameter.
+License: CC0 + file LICENSE
+Encoding: UTF-8
+URL: https://github.com/doi-NPS/rockyIntertidalSummaries
+BugReports: https://github.com/doi-NPS/rockyIntertidalSummaries/issues
